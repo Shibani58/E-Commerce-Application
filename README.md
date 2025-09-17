@@ -1,6 +1,6 @@
 
 # E-Commerce-Application
-
+This repository hosts a comprehensive e-commerce application designed to simulate a real-world online shopping experience. The application is structured using a microservices architecture, ensuring scalability and maintainability.
 
 
 ## Services Overview
